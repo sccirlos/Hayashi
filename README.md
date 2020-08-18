@@ -1,4 +1,5 @@
 # Hayashi
-## Covid-19 related: Remove restaurant menus 
-Creating a simple wesbite for Hayashi Japanese Steakhouse menus for QR code 
+## Part of Covid-19 project: Help local RGV restaurants by replacing restaurant menus with QR codes
+Creating a wesbite with Hayashi Japanese Steakhouse menus [McAllen, TX] 
+
 
